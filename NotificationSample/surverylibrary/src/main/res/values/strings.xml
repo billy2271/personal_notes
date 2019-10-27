@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SurveryLibrary</string>
+    <string name="channel_id">in_app</string>
+    <string name="notification_content_title">In App notification</string>
+    <string name="notification_content">content</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel description</string>
+</resources>
